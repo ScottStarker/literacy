@@ -19,7 +19,7 @@ function get_my_db() {
 	// the next 2 lines are for the local computers
 	$dbHost = '127.0.0.1';
 	$dbUser = 'root';
-	$dbPass = 'mmljrev22';					// password here
+	$dbPass = '';					// password here
 	$dbDatabase = 'literacy';
 	
 	//connect to the database 
